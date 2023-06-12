@@ -1,0 +1,9 @@
+* amazon-ecs
+
+Access the Amazon.com Ad API from common lisp.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/gonzojive/amazon-ecs |
+| commit  | 4bcc2de                                     |
+| systems | amazon-ecs                                  |
+|---------+---------------------------------------------|
